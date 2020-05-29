@@ -8,8 +8,6 @@ def countdown(x)
   return "HAPPY NEW YEAR!"
 end
 
-countdown(12)
-
 
 def countdown(x)
   while x >= 1
